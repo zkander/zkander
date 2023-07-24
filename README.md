@@ -10,7 +10,7 @@ Hey, I am Aly, a Dedicated computer science student with a passion for coding an
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zkander&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zkander&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zkander&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zkander&theme=radical&no-frame=true&no-bg=false&margin-w=4)
