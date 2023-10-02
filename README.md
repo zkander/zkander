@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I am Aly, a Dedicated computer science student with a passion for coding and a focus on front-end web development. driven by a goal to design aesthetically pleasing, user-friendly interfaces. I'm constantly trying to get better at what I do and stay current with new technology.
+Hey, I am Aly, a Dedicated computer science student with a passion for coding. driven by a goal to design aesthetically pleasing, user-friendly interfaces. I'm constantly trying to get better at what I do and stay current with new technology.
 
 
 ## 🌐 Socials:
