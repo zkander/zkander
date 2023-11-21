@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hey, I am Aly, a Dedicated computer science student with a passion for coding. driven by a goal to design aesthetically pleasing, user-friendly interfaces. I'm constantly trying to get better at what I do and stay current with new technology.
 
+Once, a CS student named Aly faced a crucial presentation. Their code froze mid-demo. With nerves of steel, Aly rebooted the system like a wizard. The project sprang back to life, earning Aly the nickname "Binary Ballet Dancer" for making technology tap to their tune.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aly-soliman-9529a1234) 
