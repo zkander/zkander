@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 
 Once, a CS student named Aly faced a crucial presentation. Their code froze mid-demo. With nerves of steel, Aly rebooted the system like a wizard. The project sprang back to life, earning Aly the nickname "Binary Ballet Dancer" for making technology tap to their tune.
 
