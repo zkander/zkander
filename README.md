@@ -11,9 +11,6 @@
        alt="snake" /></a>
 </div>
 
-<div align="center" styles="padding: 2rem">
-  Hey, I am Aly, a Dedicated computer science student with a passion for coding.I'm constantly trying to get better at what I do and stay current with new technology, Currently working as a Software Engineer for the next Qatar Carbon Pricing Platform.
-</div>
 
 
 
