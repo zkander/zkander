@@ -3,7 +3,7 @@
 <!--Hi-->
 <div align="center">
   <h2 style="display: inline-block font-family: Arial">
-  Hi 👋 I'am   𝐀 𝐥 𝐲 , CS Student @ QU </h2>
+  Hi 👋 I'am   𝐀 𝐥 𝐲 </h2>
 </div>
 
 <div align="center">
